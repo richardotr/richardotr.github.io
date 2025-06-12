@@ -1,3 +1,26 @@
+
+# USAGE
+i use atom
+type in terminal to run locally at http://127.0.0.1:4000/
+ctrl + f + v to open a new chrome tab at http://127.0.0.1:4000/ and or redirect at tab already open (unique texteditor keybind)
+
+```
+bundle exec jekyll s
+```
+
+to add all to commit
+```
+git add.
+```
+to commit
+```
+git commit -m "message"
+```
+```
+git push origin main
+```
+no auto deploy, must go in website and press button
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;

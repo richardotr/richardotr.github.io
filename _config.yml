@@ -16,7 +16,7 @@ timezone: America/Vancouver
 
 title: richardotr # the main title
 
-tagline: freely hosted by github will use this for blogs. take off your socks before reading my blog:essence of a game engine/you-got-lost-in-infinity. will be knocked off
+tagline: freely hosted by github i will use this for blogs. any socks you wear will be knocked off by my blog:essence of a game engine/you-got-lost-in-infinity
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing. Static iirc.
@@ -34,12 +34,13 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: your full name
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://www.roblox.com/users/893988012/profile
+    - https://github.com/richardotr # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
