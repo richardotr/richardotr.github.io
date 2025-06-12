@@ -10,7 +10,7 @@ bundle exec jekyll s
 
 to add all to commit
 ```
-git add.
+git add .
 ```
 to commit
 ```
